@@ -1,0 +1,11 @@
+https://edabit.com/challenges
+
+https://exercism.org/tracks/python/exercises
+
+https://exercism.org/tracks/javascript/exercises
+
+https://exercism.org/tracks/typescript/exercises
+
+https://exercism.org/tracks/go/exercises
+
+https://exercism.org/tracks/rust/exercises
