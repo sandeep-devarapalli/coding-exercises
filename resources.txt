@@ -9,3 +9,10 @@ https://exercism.org/tracks/typescript/exercises
 https://exercism.org/tracks/go/exercises
 
 https://exercism.org/tracks/rust/exercises
+
+https://github.com/sandeep-devarapalli/ProjectEulerRust
+
+https://github.com/sandeep-devarapalli/polyglot-euler/tree/master/src
+
+https://www.nayuki.io/page/project-euler-solutions
+
